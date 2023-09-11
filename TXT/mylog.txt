@@ -5,6 +5,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W01 20 L03 GitHub related
+ZCZC W01 100 L02 Class on Tuesday
+ZCZC W01 100 L02 Class on Thursday
+ZCZC W01 150 L11 Assignment #01 (from installing VirtualBox up until the end)
+ZCZC W01 15 L27 SSH and key-gen
+ZCZC W01 135 L05 Quiz related including studying
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 100 L02 Class on Tuesday
 ZCZC W00 60 L32 YouTube: watching OS related topics, etc.
@@ -12,9 +18,3 @@ ZCZC W00 20 L10 Assignment #00
 ZCZC W00 100 L02 Class on Thursday
 ZCZC W00 120 L05 Quiz related including studying
 ZCZC W00 45 L09 Reading assignment
-ZCZC W01 20 L03 GitHub related
-ZCZC W01 100 L02 Class on Tuesday
-ZCZC W01 100 L02 Class on Thursday
-ZCZC W01 150 L11 Assignment #01 (from installing VirtualBox up until the end)
-ZCZC W01 15 L27 SSH and key-gen
-ZCZC W01 135 L05 Quiz related including studying
