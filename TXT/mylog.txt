@@ -5,6 +5,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W02 10 L03 GitHub related
+ZCZC W02 200 L02 Class on Tuesday and Thursday
+ZCZC W02 30 L07 Demo related
+ZCZC W02 15 L01 SCELE related (pop quiz)
+ZCZC W02 20 L26 GnuPG related
+ZCZC W02 10 L29 OS Shopping related: Bought a physical copy of the Operating System Concepts book online
+ZCZC W02 15 L41 TXT/mylog.txt related.
+ZCZC W02 5 L42 TXT/mypubkey.txt related.
+ZCZC W02 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W02 120 L12 Assignment #02
+ZCZC W02 90 L05 Quiz related including studying.
+ZCZC W02 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 60 L73 Gaming.
 ZCZC W01 20 L03 GitHub related
 ZCZC W01 100 L02 Class on Tuesday
 ZCZC W01 100 L02 Class on Thursday
