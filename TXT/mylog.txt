@@ -5,6 +5,17 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W03 200 L02 Class on Tuesday and Thursday
+ZCZC W03 30 L25 C-language including Make
+ZCZC W03 105 L05 Quiz related
+ZCZC W03 30 L07 Demo related
+ZCZC W03 20 L22 Learned how to archive and extract tar files
+ZCZC W03 20 L21 Played around with mounting and unmounting
+ZCZC W03 30 L06 Learned more Linux commands
+ZCZC W03 15 L41 TXT/mylog.txt related
+ZCZC W03 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 150 L13 Assignment #03
+ZCZC W03 45 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 10 L03 GitHub related
 ZCZC W02 200 L02 Class on Tuesday and Thursday
 ZCZC W02 30 L07 Demo related
