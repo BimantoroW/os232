@@ -43,5 +43,16 @@ A video that explains what files and file systems are, including the difference 
 * [🔥 FUSE - what? why? where? | Eva Osherovsky](https://www.youtube.com/watch?v=1zvOdR02hk4) ---
 A video that explains what the FUSE file system is.
 
+# Week 04
+
+* [Secure Copy Protocol (SCP) in Linux: A Guide to File Transfer from Local to Remote Server](https://mazer.dev/en/linux/tips/copy-files-from-local-to-server-using-scp-ssh-linux/) ---\
+An article that introduces how to use the SCP command. The SCP command is used for copying files from a local machine to a remote server or vice versa. The syntax of scp is very similar to the cp command, with the main difference being that you have to specify the remote host's DNS name and your username on that remote server. You can use this to help you with week 4's pop quiz.
+
+* [How to get past the login page with Wget?](https://stackoverflow.com/questions/1324421/how-to-get-past-the-login-page-with-wget?rq=4) ---\
+A StackOverflow answer that explains how you can download files from a website that requires you to authenticate or log in first. It explains that you need to log in first to get your session cookies, then you use those cookies for authentication to download your desired file. You can use this to help you with week 4's pop quiz.
+
+* [How do you view file permissions?](https://askubuntu.com/questions/528411/how-do-you-view-file-permissions) ---\
+A great and concise answer explaining what the numbers in a file permission mean and how to interpret them. It also explains the meaning of all 10 characters in a file permission. A short answer but it gets the point across really well.
+
 <br>
 <hr>
