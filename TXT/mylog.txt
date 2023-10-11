@@ -5,6 +5,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W05 200 L02 Class on Tuesday and Thursday
+ZCZC W05 45 L25 C-language including Make.
+ZCZC W05 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 30 L22 Linux CLI including tar, etc.
+ZCZC W05 90 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 20 L07 Demo related
+ZCZC W05 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 60 L15 Assignment #05
+ZCZC W05 90 L05 Quiz related including studying
 ZCZC W04 100 L02 Class on Tuesday
 ZCZC W04 90 L06 Googled how to download a file that requires authentication and googled how to use the scp command
 ZCZC W04 60 L14 Assignment #04
