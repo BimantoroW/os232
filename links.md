@@ -54,5 +54,14 @@ A StackOverflow answer that explains how you can download files from a website t
 * [How do you view file permissions?](https://askubuntu.com/questions/528411/how-do-you-view-file-permissions) ---\
 A great and concise answer explaining what the numbers in a file permission mean and how to interpret them. It also explains the meaning of all 10 characters in a file permission. A short answer but it gets the point across really well.
 
+* [What is virtual memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory) ---\
+An article that summarizes what virtual memory is.
+
+* [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s) ---\
+A video detailing the different types of memory. The types explained in the video are segmented, paged, and virtual memory.
+
+* [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) ---\
+A video explaining what virtual memory is. The video explains the background and how virtual memory works.
+
 <br>
 <hr>
