@@ -5,6 +5,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W06 200 L02 Class on Tuesday and Thursday
+ZCZC W06 30 L25 C-language including Make.
+ZCZC W06 30 L22 Linux CLI including tar, etc.
+ZCZC W06 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 30 L07 Demo related
+ZCZC W06 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 60 L15 Assignment #05
+ZCZC W06 90 L05 Quiz related including studying
+ZCZC W06 30 L21 Experimented with the fork() function in C
 ZCZC W05 200 L02 Class on Tuesday and Thursday
 ZCZC W05 45 L25 C-language including Make.
 ZCZC W05 15 L26 GnuPG, key-gen, encrypt/decrypt.

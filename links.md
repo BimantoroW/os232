@@ -54,6 +54,8 @@ A StackOverflow answer that explains how you can download files from a website t
 * [How do you view file permissions?](https://askubuntu.com/questions/528411/how-do-you-view-file-permissions) ---\
 A great and concise answer explaining what the numbers in a file permission mean and how to interpret them. It also explains the meaning of all 10 characters in a file permission. A short answer but it gets the point across really well.
 
+# Week 05
+
 * [What is virtual memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory) ---\
 An article that summarizes what virtual memory is.
 
@@ -62,6 +64,17 @@ A video detailing the different types of memory. The types explained in the vide
 
 * [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) ---\
 A video explaining what virtual memory is. The video explains the background and how virtual memory works.
+
+# Week 06
+
+* [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) ---\
+A detailed article explaining the fork function in C. The article explains how the fork function works and what it does. It also gives examples to help the reader understand better.
+
+* [How to use mmap function in C language?](https://linuxhint.com/using_mmap_function_linux/) ---\
+An article that explains the mmap function in C. The mmap function is used to create shared memory between processes.
+
+* [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm) ---\
+An article that explains how shared memory works. It also gives examples of a C program that uses shared memory.
 
 <br>
 <hr>
