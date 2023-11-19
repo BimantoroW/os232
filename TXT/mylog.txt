@@ -5,13 +5,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W08 200 L02 Class on Tuesday and Thursday
+ZCZC W08 120 L22 Linux CLI including tar, etc.
+ZCZC W08 30 L07 Demo related
+ZCZC W08 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 240 L18 Assignment #08
+ZCZC W08 90 L05 Quiz related including studying
 ZCZC W07 200 L02 Class on Tuesday and Thursday
 ZCZC W07 30 L25 C-language including Make.
 ZCZC W07 30 L22 Linux CLI including tar, etc.
 ZCZC W07 15 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W07 30 L07 Demo related
 ZCZC W07 15 L43 TXT/myrank.tex related, including peer review.
-ZCZC W07 60 L15 Assignment #05
+ZCZC W07 60 L17 Assignment #07
 ZCZC W07 90 L05 Quiz related including studying
 ZCZC W07 45 L21 Experimented with Peterson's solution in C
 ZCZC W06 200 L02 Class on Tuesday and Thursday
@@ -20,7 +26,7 @@ ZCZC W06 30 L22 Linux CLI including tar, etc.
 ZCZC W06 15 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W06 30 L07 Demo related
 ZCZC W06 15 L43 TXT/myrank.tex related, including peer review.
-ZCZC W06 60 L15 Assignment #05
+ZCZC W06 60 L16 Assignment #06
 ZCZC W06 90 L05 Quiz related including studying
 ZCZC W06 30 L21 Experimented with the fork() function in C
 ZCZC W05 200 L02 Class on Tuesday and Thursday

@@ -76,5 +76,18 @@ An article that explains the mmap function in C. The mmap function is used to cr
 * [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm) ---\
 An article that explains how shared memory works. It also gives examples of a C program that uses shared memory.
 
+# Week 07
+
+* [What is the critical section problem in operating systems?](https://www.educative.io/answers/what-is-the-critical-section-problem-in-operating-systems) ---\
+An article that introduces the critical section problem and gives some general solutions to it.
+
+* [Peterson's Solution](https://www.scaler.com/topics/petersons-solution/) ---\
+An article that explains Peterson's solution to the critical section problem.
+
+# Week 08
+
+* [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw) ---\
+A video that explains the various folders in the linux base directory.
+
 <br>
 <hr>
